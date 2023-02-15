@@ -93,4 +93,4 @@ if (!extension_loaded('intl')) {
     exit;
 }
 
-result(100, [3, 5, 11, 13, 19, 100]);
+result(100, [3, 5, 11, 13, 19]);
